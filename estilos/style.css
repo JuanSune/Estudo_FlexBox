@@ -64,6 +64,12 @@ text-align: center;
      .hero h3{font-size: 1.5rem;}
 }
 
+/* Conheca o hotel */
+.conheca_o_hotel{display: flex; flex-direction: column; align-items: center; padding: 100px 50px;}
+.conheca_o_hotel h3{font-size: 2rem; margin-bottom: 35px;}
+.conheca_o_hotel p{max-width: 800px; margin-bottom: 35px;}
+.conheca_o_hotel hr{width: 200px;}
+
 
 
 
